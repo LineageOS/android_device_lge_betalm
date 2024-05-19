@@ -6,8 +6,3 @@
 
 PRODUCT_MAKEFILES += \
     $(LOCAL_DIR)/lineage_betalm.mk
-
-COMMON_LUNCH_CHOICES := \
-    lineage_betalm-eng \
-    lineage_betalm-user \
-    lineage_betalm-userdebug
