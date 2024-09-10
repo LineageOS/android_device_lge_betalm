@@ -529,7 +529,6 @@ vendor/lib/liblgsnpeawb_beta.so
 vendor/lib/libmorpho_image_stab31.so
 vendor/lib/libmorpho_wdr2.so
 vendor/lib/libmpbase.so
-vendor/lib/libsnsapi.so
 vendor/lib/libspectre.so
 vendor/lib/libsymphony-1.1.2.so
 vendor/lib/libsymphony-1.1.4.so
@@ -732,7 +731,6 @@ vendor/lib64/liblgsnpeawb_beta.so
 vendor/lib64/libmorpho_image_stab31.so
 vendor/lib64/libmorpho_wdr2.so
 vendor/lib64/libmpbase.so
-vendor/lib64/libsnsapi.so
 vendor/lib64/libspectre.so
 vendor/lib64/libsymphony-1.1.4.so
 vendor/lib64/libsymphony-cpu.so
