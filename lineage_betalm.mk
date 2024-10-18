@@ -26,7 +26,6 @@ TARGET_VENDOR_DEVICE_NAME := betalm
 PRODUCT_GMS_CLIENTID_BASE := android-lge
 
 PRODUCT_BUILD_PROP_OVERRIDES += \
-    TARGET_DEVICE=betalm_lao_com \
-    PRIVATE_BUILD_DESC="betalm-user 12 SKQ1.211103.001 2234515404aca release-keys"
-
-BUILD_FINGERPRINT := lge/betalm/betalm:12/SKQ1.211103.001/2234515404aca:user/release-keys
+    DeviceProduct=betalm \
+    BuildDesc="betalm-user 12 SKQ1.211103.001 2234515404aca release-keys" \
+    BuildFingerprint=lge/betalm/betalm:12/SKQ1.211103.001/2234515404aca:user/release-keys
