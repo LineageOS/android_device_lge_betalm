@@ -9,6 +9,9 @@ DEVICE_PATH := device/lge/betalm
 # inherit from common tree
 -include device/lge/sm8150-common/BoardConfigCommon.mk
 
+# Audio - LGE
+BOARD_LGE_HAS_EXT_AMPLIFIER := true
+
 # Display
 TARGET_SCREEN_DENSITY := 420
 
